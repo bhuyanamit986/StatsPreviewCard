@@ -112,6 +112,8 @@ body{
   width: 100%;
   height: auto;
   text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 .box-2{
   background-image: url("images/image-header-mobile.jpg");
@@ -122,6 +124,8 @@ body{
   height: 100%;
   opacity: 50%;
   background-blend-mode: hard-light;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 
 }
 .heading {
